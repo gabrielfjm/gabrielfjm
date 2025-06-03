@@ -16,7 +16,7 @@ Sou *Desenvolvedor* e *Estudante de Engenharia de Software*.
 
 ### 📫 Como me encontrar
 
-- LinkedIn: [https://www.linkedin.com/in/gabriel-felipe-jess-meira-b7619b22b/]
+- LinkedIn: *https://www.linkedin.com/in/gabriel-felipe-jess-meira-b7619b22b/*
 - Email: *gabrielfjmeira@gmail.com*
 - Portfólio: *github.com/gabrielfjm*
 
@@ -24,5 +24,5 @@ Sou *Desenvolvedor* e *Estudante de Engenharia de Software*.
 
 ### 📊 Minhas Estatísticas no GitHub
 
-[![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=SEUUSERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Minhas Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSERNAME&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Minhas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=gabrielfjm&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Minhas Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielfjm&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)

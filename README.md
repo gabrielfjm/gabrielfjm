@@ -1,6 +1,6 @@
-### 👋 Olá, eu sou o [Gabriel]!
+### 👋 Olá, eu sou o *Gabriel*!
 
-Sou [Desenvolvedor e Estudante de Engenharia de Software].
+Sou *Desenvolvedor* e *Estudante de Engenharia de Software*.
 
 ---
 
@@ -14,18 +14,11 @@ Sou [Desenvolvedor e Estudante de Engenharia de Software].
 
 ---
 
-### 🌱 Atualmente Aprendendo
-
-- [Tecnologia/Conceito 1]
-- [Tecnologia/Conceito 2]
-
----
-
 ### 📫 Como me encontrar
 
 - LinkedIn: [https://www.linkedin.com/in/gabriel-felipe-jess-meira-b7619b22b/]
-- Email: [Seu Email]
-- Portfólio: [Link para seu Portfólio]
+- Email: *gabrielfjmeira@gmail.com*
+- Portfólio: *github.com/gabrielfjm*
 
 ---
 

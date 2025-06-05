@@ -18,7 +18,7 @@ Sou *Desenvolvedor* e *Estudante de Engenharia de Software*.
 
 - LinkedIn: *https://www.linkedin.com/in/gabriel-felipe-jess-meira-b7619b22b/*
 - Email: *gabrielfjmeira@gmail.com*
-- Portfólio: *github.com/gabrielfjm*
+- Portfólio: *https://gabrielfjm.github.io*
 
 ---
 
